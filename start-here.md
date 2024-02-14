@@ -14,7 +14,7 @@ sidebar:
     links:
       - text: "Hacktivity"
         url: https://hackerone.com/hacktivity
-      - text: "Introducing Hacker101 CTF"
+      - text: "Introducing Hacker101 CTF" 
         url: https://www.hackerone.com/blog/Introducing-Hacker101-CTF
       - text: "Hacker101: Find Flags, Get Private Invitations"
         url: /playlists/burp_suite
